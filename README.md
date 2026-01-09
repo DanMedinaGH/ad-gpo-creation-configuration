@@ -6,6 +6,9 @@ In this project we will create and setup **Group Policy Objects (GPOs)** for our
 
 **GPOs** or **group policy objects** are used to centrally manage group policy.
 
+## Acknowledgments
+This lab was created using [East Charmer's Windows Server Lab series](https://www.youtube.com/playlist?list=PLAdEnQWAAbfXMY2D4HVZOe-ChfTKmaJfQ).
+
 ## Operating Systems
 - Windows 11 (x86-64)
 - Windows Server 2022 (x86-64)
